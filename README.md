@@ -1,7 +1,3 @@
-Here's a complete `README.md` you can directly copy-paste into your GitHub repository for **Challenge 1a – PDF Processing Solution**:
-
----
-
 ```markdown
 # 📄 Adobe India Hackathon 2025 – Challenge 1a: PDF Processing Solution
 

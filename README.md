@@ -1,4 +1,3 @@
-```markdown
 # 📄 Adobe India Hackathon 2025 – Challenge 1a: PDF Processing Solution
 
 ## 🚀 Overview
@@ -32,6 +31,7 @@ Challenge\_1a/
 ```bash
 docker build --platform linux/amd64 -t pdf-processor .
 ````
+---
 
 ### ▶️ Run the Processor
 
